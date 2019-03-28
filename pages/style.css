@@ -1,0 +1,27 @@
+nav {
+    background-color: darkseagreen;
+    width: 500px;
+    height 200px;
+    margin: 10px auto 0px auto;
+    display: block;
+    text-align: center;
+}
+
+#section_1 {
+    width: 500px;
+    background-color: skyblue;
+}
+
+#section_6 {
+    text-align: center;
+}
+
+#section_2 {
+    width: 700px;
+    float: left;
+    background-color: skyblue;
+}
+
+#section_7{
+    border-left-width: 5px;
+}
