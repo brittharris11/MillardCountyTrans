@@ -2,12 +2,13 @@ nav {
     position: sticky;
     top: 0px;
     background-color: darkseagreen;
-    opacity: 100%;
+    opacity: 1.0;
     width: 500px;
     height 200px;
     margin: 10px auto 0px auto;
     display: block;
     text-align: center;
+    z-index: 999;
 }
 
 #section_1 {
@@ -19,11 +20,9 @@ nav {
     text-align: center;
 }
 
-#section_2 .{
-    background-color: skyblue;
-}
 
 #section_7{
     border-left-width: 5px;
 }
+
 
